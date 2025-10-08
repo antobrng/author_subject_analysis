@@ -1,0 +1,1491 @@
+{
+    "links": {
+        "self": "/authors/OL13895412A/works.json",
+        "author": "/authors/OL13895412A",
+        "next": "/authors/OL13895412A/works.json?offset=50"
+    },
+    "size": 112,
+    "entries": [
+        {
+            "title": "Farm der Tiere: Ein M\u00e4rchen",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL43914270W",
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-08-18T20:16:50.589471"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-08-18T20:16:50.589471"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Mein Kampf / My Struggle Followed by the Testament of Adolf Hitler",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL108070A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL936198A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9783034A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL9783035A"
+                    }
+                }
+            ],
+            "key": "/works/OL41565283W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-03T11:45:57.367624"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-25T18:30:57.131039"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Homage To Catalonia",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43348041W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-05-12T12:32:24.421072"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-12T12:32:24.421072"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "NINETEEN EIGHTY-FOUR (972)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43289151W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-05-08T19:46:09.333151"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-08T19:46:09.333151"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Keep the Aspidistra Flying",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43244233W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-05-04T21:56:58.591495"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-04T21:56:58.591495"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Down and Out in Paris and London",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43184997W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-30T22:07:32.437590"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-30T22:07:32.437590"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43100923W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T19:17:35.614260"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T19:17:35.614260"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Ninteen Eighty-Four",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43068045W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T09:33:31.636195"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-27T09:33:31.636195"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Nineteen Eighty-Four",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43045054W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T20:45:13.996392"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T20:45:13.996392"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "A Clergyman's Daughter",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43041626W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T19:36:09.972948"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T19:36:09.972948"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Shooting An Elephant and other essays",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43038942W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T18:43:14.442307"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T18:43:14.442307"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Burmese days ",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL43024657W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T11:36:27.785759"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-26T11:36:27.785759"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm By George Orwell (A Signet Classic)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42983025W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-04-24T22:56:58.965143"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-04-24T22:56:58.965143"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Recuerdos de la Guerra de Espana",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41056166W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-09-29T09:39:05.802602"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-08T02:23:38.946996"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Homenaje a Cataluna",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14612814A"
+                    }
+                }
+            ],
+            "key": "/works/OL41133436W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-09-29T23:55:22.075767"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-08T02:23:24.854236"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "1. 984",
+            "subjects": [
+                "British and irish fiction (fictional works by one author)",
+                "Fiction, political",
+                "Fiction, science fiction, general",
+                "London (england), fiction",
+                "Fiction, dystopian"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41300125W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-01T08:22:27.246933"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-08T02:23:11.794917"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Fattoria Degli Animali Animal Farm",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14722600A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42566085W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T04:19:24.946659"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T04:19:24.946659"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Why I Write",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42563787W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T04:03:59.458503"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T04:03:59.458503"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm / &#2346;&#2358;&#2369; &#2347;&#2366;&#2352;&#2381;&#2350;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14722600A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42562146W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T03:54:01.698817"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T03:54:01.698817"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm / Hayvan \u00c7iftli&#287;i",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14722600A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42557975W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T03:27:20.395386"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T03:27:20.395386"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / Animal Farm",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL14722600A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42557973W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T03:27:19.507675"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T03:27:19.507675"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Literary and Political Essays",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42540551W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T00:56:56.888561"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-02-17T00:56:56.888561"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "1984-1",
+            "subjects": [
+                "Political science",
+                "Literature, history and criticism"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42444442W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-25T03:16:22.629520"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-25T03:16:22.629520"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "1984-3",
+            "subjects": [
+                "Political science",
+                "Literature, history and criticism"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42438562W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-25T02:22:09.753109"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-25T02:22:09.753109"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "1984-2",
+            "subjects": [
+                "Political science",
+                "Literature, history and criticism"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42431619W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-25T01:22:50.570787"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-25T01:22:50.570787"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Can Socialists Be Happy?",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42416290W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T23:12:31.268169"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T23:12:31.268169"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Down and Out in Paris and London",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42413838W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T22:49:02.731765"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T22:49:02.731765"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42413829W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T22:48:57.789912"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T22:48:57.789912"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "George Orwell's 1984",
+            "subjects": [
+                "Playwriting"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL3097235A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42412073W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T22:31:08.434096"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T22:31:08.434096"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "1984",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42402360W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T21:01:18.634598"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T21:01:18.634598"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Homage to Catalonia",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL42393288W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T19:31:40.534220"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-24T19:31:40.534220"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Rebelion en la Granja",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL41057536W",
+            "description": {
+                "type": "/type/text",
+                "value": "Despu\u00e9s de ser explotados por a\u00f1os, los animales de la Granja Manor hicieron un plan para acabar con el dominio humano y ser libres. Sin embargo, los cerdos toman el control de la granja y se vuelven los nuevos dictadores de la granja."
+            },
+            "subjects": [
+                "Animalismo",
+                "dos patas",
+                "cuatro patas"
+            ],
+            "subject_people": [
+                "Sr Jones",
+                "Sr. Whymper"
+            ],
+            "subject_places": [
+                "Inglaterra"
+            ],
+            "subject_times": [
+                "There is no time because self discovery takes place all the time."
+            ],
+            "excerpts": [
+                {
+                    "pages": "3-7",
+                    "excerpt": "\"Camaradas, os hab\u00e9is preguntado alguna vez cu\u00e1l es la naturaleza de esta vida nuestra? Examinemos los hechos. Nuestra vida es miserable, laboriosa y corta. Nacemos, nos dan la comida necesaria para mantenernos, y a aquellos de nosotros que somos capaces de trabajar nos obligan a hacerlo hasta el \u00faltimo \u00e1tomo de nuestras fuerzas; y en el instante en que ya no somos \u00fatiles, nos matan con una crueldad espantosa. Ning\u00fan animal en Inglaterra conoce el significado de la felicidad o el ocio despu\u00e9s de cumplir un a\u00f1o. Ning\u00fan animal en Inglaterra es libre. La vida de un animal es miseria y esclavitud: esa es la pura verdad.",
+                    "comment": "Aunque va dirigido a los animales, en parte aplica a los humanos, que viven bajo un gobierno.",
+                    "author": {
+                        "key": "/people/agosto0088981"
+                    }
+                }
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-09-29T09:51:28.808080"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-03-05T17:45:21.433335"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm / &#1060;&#1077;&#1088;&#1084;&#1072;&#1090;&#1072; &#1085;&#1072; &#1078;&#1080;&#1074;&#1086;&#1090;&#1085;&#1080;&#1090;&#1077;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41880591W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T02:39:57.866681"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:04:15.883944"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm / Kammerat Napoleon",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41880594W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T02:39:58.494889"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:04:15.552651"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / &#1605;&#1586;&#1585;&#1593;&#1577; &#1575;&#1604;&#1581;&#1610;&#1608;&#1575;&#1606;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41880598W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T02:39:59.305754"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:04:14.411617"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / &#1050;&#1086;&#1083;&#1075;&#1086;&#1089;&#1087; &#1090;&#1074;&#1072;&#1088;&#1080;&#1085;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41880589W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T02:39:56.999877"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:04:12.062657"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / &#1057;&#1082;&#1086;&#1090;&#1085;&#1099;&#1081; &#1076;&#1074;&#1086;&#1088;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41891305W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:09:31.168431"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:04:09.611302"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm a / Fazenda Dos Animais",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41888174W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T03:41:23.326160"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:04:02.448751"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / &#1060;&#1077;&#1088;&#1084;&#1072;&#1090;&#1072; &#1085;&#1072; &#1078;&#1080;&#1074;&#1086;&#1090;&#1085;&#1080;&#1090;&#1077;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41891313W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:09:32.139964"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:04:01.281317"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / Hayvan \u00c7iftli&#287;i",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41888165W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T03:41:21.150749"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:52.552161"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / Folwark Zwierz&#281;cy",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41888170W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T03:41:22.218701"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:44.943446"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm / Politik Kandang",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41891320W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:09:33.932224"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:44.624568"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Animal Farm / &#1605;&#1586;&#1585;&#1593;&#1607; &#1581;&#1740;&#1608;&#1575;&#1606;&#1575;&#1578;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41891098W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:08:34.963455"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:42.279768"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / &#21160;&#29289;&#24196;&#22253;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41894196W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:35:22.993802"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:38.501246"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Folwark Zwierz&#281;cy / &#1050;&#1086;&#1083;&#1075;&#1086;&#1089;&#1087; T&#1074;&#1072;&#1088;&#1080;&#1085;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41894270W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:35:46.351630"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:37.530403"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Fferm Anifeiliaid / Animal Farm",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41894273W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:35:47.106126"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:37.175521"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / Rebeli\u00f3n en la Granja",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41894289W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:35:50.566939"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:36.834335"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Feirm Na Nainmhithe / Animal Farm",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41894199W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T04:35:24.448778"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:35.720305"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / a Fazenda Dos Animais",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41900004W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T05:30:31.992633"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:27.576974"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Farm der Tiere / &#1605;&#1586;&#1585;&#1593;&#1607; &#1581;&#1740;&#1608;&#1575;&#1606;&#1575;&#1578;",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL13895412A"
+                    }
+                }
+            ],
+            "key": "/works/OL41897058W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2024-10-06T05:02:51.326177"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-01-17T18:03:25.569421"
+            }
+        }
+    ]
+}

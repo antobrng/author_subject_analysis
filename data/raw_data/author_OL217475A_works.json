@@ -1,0 +1,1613 @@
+{
+    "links": {
+        "self": "/authors/OL217475A/works.json",
+        "author": "/authors/OL217475A"
+    },
+    "size": 23,
+    "entries": [
+        {
+            "lc_classifications": [
+                "PS3555.L5937 A8 1991"
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "American Psycho is a novel by Bret Easton Ellis, published in 1991. The story is told in the first person by Patrick Bateman, a serial killer and Manhattan investment banker. Alison Kelly of The Observer notes that while \"some countries [deem it] so potentially disturbing that it can only be sold shrink-wrapped\", \"critics rave about it\" and \"academics revel in its transgressive and postmodern qualities\"."
+            },
+            "links": [
+                {
+                    "title": "American Psycho - Wikipedia",
+                    "url": "https://en.wikipedia.org/wiki/American_Psycho",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "title": "American Psycho by Bret Easton Ellis | Books | The Guardian",
+                    "url": "https://www.theguardian.com/books/2010/jul/17/american-psycho-bret-easton-ellis",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "url": "https://www.rollingstone.com/movies/movie-news/american-psycho-at-25-bret-easton-ellis-on-patrick-batemans-legacy-175227/",
+                    "title": "\u2018American Psycho\u2019 at 25: Bret Easton Ellis on Patrick Bateman\u2019s Legacy",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "title": "Bret Easton Ellis Answers Critics of 'American Psycho'",
+                    "url": "https://www.nytimes.com/1991/03/06/books/bret-easton-ellis-answers-critics-of-american-psycho.html",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "title": "American Psycho",
+            "covers": [
+                8401686,
+                -1,
+                8738492,
+                10131374,
+                10417713,
+                10833656,
+                12305947,
+                12970895,
+                14060481,
+                14060482
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "ABANDON ALL HOPE YE WHO ENTER HERE is scrawled in blood red lettering on the side of the Chemical Bank near the corner of Eleventh and First and is in print large enough to be seen from the backseat of the cab as it lurches forward in the traffic leaving Wall Street and just as Timothy Price notices the words a bus pulls up, the advertisement for Les Miserables on its side blocking his view, but Price who is with Pierce &amp; Pierce and twenty-six doesn't seem to care because he tells the driver he will give him five dollars to turn up the radio, \"Be My Baby\" on WYNN, and the driver, black, not American, does so."
+            },
+            "subject_places": [
+                "Wall Street (New York, N.Y.)",
+                "Manhattan (New York, N.Y.)",
+                "Manhattan",
+                "Wall Street",
+                "New York",
+                "London"
+            ],
+            "first_publish_date": "1991",
+            "subject_people": [
+                "Patrick Bateman",
+                "Evelyn Richards",
+                "Timothy Price",
+                "Paul Owen",
+                "Jean",
+                "Luis Carruthers",
+                "Courtney Lawrence",
+                "Craig McDermott",
+                "David Van Patten",
+                "Christie",
+                "Elizabeth",
+                "Marcus Halberstam",
+                "Donald Kimball",
+                "Alison Poole",
+                "Sean Bateman",
+                "Paul Denton",
+                "Christopher Armstrong",
+                "Bethany",
+                "Stash",
+                "Vanden",
+                "Al"
+            ],
+            "key": "/works/OL1812933W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL4570461A"
+                    }
+                }
+            ],
+            "subject_times": [
+                "1980s"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Gothic & Horror",
+                "Literary Fiction",
+                "capitalism",
+                "postmodernism",
+                "id",
+                "schizophrenia",
+                "consumerism",
+                "stream of consciousness",
+                "cocaine",
+                "pop music",
+                "unreliable narrators",
+                "vanity",
+                "sadism",
+                "rape",
+                "torture",
+                "mutilation",
+                "cannibalism",
+                "SWAT teams",
+                "necrophilia",
+                "investment bankers",
+                "psychological fiction",
+                "horror tales",
+                "Fiction",
+                "Rapists",
+                "Serial murderers in fiction",
+                "Women in fiction",
+                "Crimes against Women",
+                "Rapists in fiction",
+                "Novela estadounidense",
+                "Serial murderers",
+                "Psychopaths",
+                "Cuentos de terror",
+                "Psychopaths in fiction",
+                "Women",
+                "Crimes against",
+                "Violence",
+                "Serial murders",
+                "Fiction, psychological",
+                "Bateman, pat (fictitious character), fiction",
+                "New york (n.y.), fiction",
+                "Samfundssatire",
+                "Sex",
+                "Vold",
+                "Psykologisk thriller",
+                "Yuppier",
+                "Women--crimes against",
+                "Women--crimes against--fiction",
+                "Serial murderers--fiction",
+                "Psychopaths--fiction",
+                "Rapists--fiction",
+                "Ps3555.l5937 a8 1991",
+                "813/.54"
+            ],
+            "latest_revision": 32,
+            "revision": 32,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-09T22:24:59.486929"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-15T14:16:48.011953"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Pa\u1e25ot me-efes",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "key": "/works/OL42497715W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2025-02-06T02:45:59.170354"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-06-15T14:16:48.011953"
+            }
+        },
+        {
+            "subtitle": "junge Autoren von heute, die besten von morgen",
+            "covers": [
+                8317394
+            ],
+            "key": "/works/OL18150022W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL8992530A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL732440A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL250808A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL434619A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1285761A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21807A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL303286A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL82242A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL412158A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL27870A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL719613A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL389620A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL540406A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL30011A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL454029A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL986947A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL341136A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL56077A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL289247A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL61678A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL222678A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL384653A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL21961A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL455787A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL190100A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL4728950A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7863590A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL373171A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL194885A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1103782A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "title": "30 unter 40",
+            "subjects": [
+                "Fiction",
+                "Translations into German",
+                "German fiction"
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "latest_revision": 6,
+            "revision": 6,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-01-08T03:48:11.805803"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-05-16T09:42:40.125685"
+            }
+        },
+        {
+            "description": "First Sentence: \u201cAnd it\u2019s a story that might bore you, but you don\u2019t have to listen, she told me, because she always knew it was going to be like that, and it was, she thinks, her first year, or actually weekend, really a Friday, in September, and Camden, and this was three or four years ago, and she got so drunk that she ended up in bed, lost her virginity (late, she was eighteen) in Lorna Slavin\u2019s room, because she was a Freshman and had a roommate and Lorna was, she remembers, a Senior or a Junior and usually sometimes at her boyfriend\u2019s place off-campus, to who she thought was a Sophomore Ceramics major but who was actually either some guy from N.Y.U., a film student, and up in New Hampshire just for The Dressed To Get Screwed party, or a townie.\u201d\r\n\r\nThis is the second novel from Ellis, of American Psycho fame. It doesn\u2019t depart much from the style (run-on sentences, sex, drugs, 80\u2019s MTV music videos, more drugs, more sex, some violence thrown in there) of his other works, except that here it works throughout the whole book. Here he gives us a little more to work with, like allusions (Howard Roark!), different narrators, a setting that\u2019s not L.A, and a semi-coherent plot. His talent is endless and the sentences run on seamlessly until you\u2019re almost disappointed when a sentence actually ends. Nobody in the world can write like Ellis, though many have tried, and failed miserably. Yes, Ellis is a deranged person (has to be), but he\u2019s also a prolific, talented writer whose put his time in. And here he shines.\r\n\r\nIt\u2019s about sex and drugs and horrible, self-absorbed, incomplete people, trying to get laid and quit smoking in a fictional University in New England. The things they do are despicable and immoral. There\u2019s nothing redeeming about any of the characters in the entire book, no hope, and yet this book stings because nobody could write this well about people like this if they did not, in fact, exist in real life. When\u2019s the last time you went to college? What do you think happens in Universities around America? What do you think most people are really like? This is a documentary of lost, attractive young people falling into the void. And nobody cares and nobody cares and nobody cares.",
+            "title": "The rules of attraction",
+            "covers": [
+                94622,
+                9345757,
+                9862908,
+                1011048,
+                978994,
+                195545,
+                12579887,
+                13133952
+            ],
+            "subject_places": [
+                "New Hampshire"
+            ],
+            "first_publish_date": "1987",
+            "key": "/works/OL1812931W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL3309725A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL709314A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL7931147A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL12162948A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction",
+                "College students",
+                "\u00c9tudiants",
+                "Romans, nouvelles",
+                "Triangles (Interpersonal relations)",
+                "Fiction, general",
+                "New england, fiction"
+            ],
+            "links": [
+                {
+                    "title": "The Rules Of Attraction (Love Books Review)",
+                    "url": "https://love-books-review.com/blog/the-rules-of-attraction-by-bret-easton-ellis/",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "latest_revision": 17,
+            "revision": 17,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-09T22:24:59.486929"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-02-19T21:12:56.457245"
+            }
+        },
+        {
+            "description": "Set in Los Angeles in the early 1980's, this coolly mesmerizing novel is a raw, powerful  portrait of a lost generation who have experienced sex, drugs, and disaffection at  too early an age, in a world shaped by casual nihilism, passivity, and too much money  a place devoid of feeling or hope. Clay comes home for Christmas vacation from his  Eastern college and re-enters a landscape of limitless privilege and absolute moral  entropy, where everyone drives Porches, dines at Spago, and snorts mountains of cocaine.   He tries to renew feelings for his girlfriend, Blair, and for his best friend from  high school, Julian, who is careering into hustling and heroin.  Clay's holiday turns  into a dizzying spiral of desperation that takes him through the relentless parties  in glitzy mansions, seedy bars, and underground rock clubs and also into the seamy  world of L.A. after dark.",
+            "title": "Less than Zero",
+            "covers": [
+                94214,
+                6387853,
+                8024852,
+                9557409,
+                10128711,
+                10249996,
+                10466898,
+                978624,
+                10400110,
+                1011010,
+                10156373,
+                -1,
+                12349513,
+                14060444,
+                12338093,
+                14060443
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "People are afraid to merge on freeways in Los Angeles."
+            },
+            "subject_places": [
+                "Los Angeles (Calif.)",
+                "Los Angeles"
+            ],
+            "first_publish_date": "July 1998",
+            "key": "/works/OL1812917W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL7303599A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Drug addiction",
+                "Fiction",
+                "Friendship",
+                "Generation X",
+                "Young men",
+                "Young men -- Fiction.",
+                "Drug addiction -- Fiction.",
+                "Friendship -- Fiction.",
+                "Generation X -- Fiction.",
+                "Los Angeles (Calif.) -- Fiction.",
+                "Fiction, coming of age",
+                "Friendship, fiction",
+                "Los angeles (calif.), fiction",
+                "New York Times reviewed",
+                "American literature",
+                "Generation X.",
+                "Generation x",
+                "Young men -- fiction.",
+                "Drug addiction -- fiction.",
+                "Friendship -- fiction.",
+                "Generation x -- fiction.",
+                "Los angeles (calif.) -- fiction."
+            ],
+            "subject_times": [
+                "1980s"
+            ],
+            "links": [
+                {
+                    "title": "New York Times review",
+                    "url": "http://www.nytimes.com/1986/06/22/books/new-noteworthy.html",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "latest_revision": 24,
+            "revision": 24,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-09T22:24:59.486929"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:35:03.374720"
+            }
+        },
+        {
+            "title": "Glamorama",
+            "covers": [
+                228510,
+                10317004,
+                225678,
+                2206095,
+                10109712,
+                197196,
+                -1,
+                12030628,
+                12347098,
+                13501873
+            ],
+            "first_sentence": {
+                "type": "/type/text",
+                "value": "\"Specks-specks all over the third panel, see?"
+            },
+            "first_publish_date": "March 21, 2000",
+            "key": "/works/OL1812911W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL4234479A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Fiction, thrillers, general",
+                "Paris (france), fiction",
+                "France, fiction",
+                "New york (n.y.), fiction",
+                "Terroristische Vereinigung",
+                "Dressman",
+                "High-Society",
+                "Lebensstil",
+                "Young men",
+                "Fiction",
+                "Models",
+                "Terrorism",
+                "Fiction, thrillers",
+                "Fiction, suspense",
+                "Terrorism, fiction",
+                "Fiction, thrillers, suspense",
+                "American literature",
+                "High Society"
+            ],
+            "lc_classifications": [
+                "PS3555.L5937 G58 1999"
+            ],
+            "dewey_number": [
+                "813/.54"
+            ],
+            "subject_places": [
+                "New York (N.Y.)"
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "In Glamorama, a young man in what is recognizably fashion- and celebrity-obsessed Manhattan is gradually, imperceptibly drawn into a shadowy looking-glass of that society, there and in London and Paris, and then finds himself trapped on the other side, in a much darker place where fame and terrorism and family and politics are inextricably linked and sometimes indistinguishable.\n\nAt once implicated and horror-stricken, his ways of escape blocked at every turn, he ultimately discovers - back on the other, familiar side - that there was no mirror, no escape, no world but this one in which hotels implode and planes fall from the sky."
+            },
+            "latest_revision": 14,
+            "revision": 14,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-09T22:24:59.486929"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-09-18T15:01:18.386044"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Chance and Order the Sixth William Townsend Lecture 1979",
+            "key": "/works/OL31274882W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-04T20:18:02.994722"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:28:30.142461"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Blood Meridian - Numbered Edition",
+            "subjects": [
+                "Fiction, general"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL28104A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL6924572A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "key": "/works/OL36127645W",
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-07-17T15:11:22.552032"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:28:30.142461"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Los Confidentes",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "key": "/works/OL35306431W",
+            "covers": [
+                14492432
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-05-04T03:51:17.313465"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:28:30.142461"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "suite(s) imp\u00e9riale(s)",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "key": "/works/OL35320625W",
+            "covers": [
+                14522545
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-05-04T05:10:05.887684"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:28:30.142461"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Los destrozos",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8448663A"
+                    }
+                }
+            ],
+            "key": "/works/OL34768522W",
+            "covers": [
+                14341306
+            ],
+            "latest_revision": 3,
+            "revision": 3,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-03-16T10:22:31.478609"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:28:30.142461"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "PICADOR SHOTS - ' Water from the Sun'",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "covers": [
+                13119260
+            ],
+            "key": "/works/OL33121638W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-12-28T11:17:48.383001"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:28:30.142461"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "\u05dc\u05d5\u05e0\u05d0\u05e8 \u05e4\u05d0\u05e8\u05e7",
+            "subjects": [
+                "Novelists",
+                "Fiction",
+                "Suburban life",
+                "Married people",
+                "College teachers",
+                "Hallucinations and illusions"
+            ],
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "key": "/works/OL37234514W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-11-30T14:13:27.142526"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:28:30.142461"
+            }
+        },
+        {
+            "title": "Ein literarischer Gang an die Bo\u0308rse",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL183213A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL12987463A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL230834A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL32772A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL150292A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL113829A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL12987464A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL136066A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL41602A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL2111876A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL88204A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL32271A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL19024A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL12987465A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL125711A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL1282595A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL22553A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                },
+                {
+                    "author": {
+                        "key": "/authors/OL123122A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "key": "/works/OL35991483W",
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "stock markets",
+                "Short Stories (Anthologies)"
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Im Gegensatz zu seinen Romanen und Erz\u00e4hlungen hat A.N. Herbst diesen Band zusammen mit Sabine Tost herausgegeben.\r\n\r\nB\u00f6rse, Going Public, Aktienm\u00e4rkte \u2013 beherrschende Themen seit dem Bau des ersten B\u00f6rsengeb\u00e4udes. Einige besonders spannende Aspekte des B\u00f6rsengeschehens haben die Autoren der Weltliteratur in ihren Romanen und Erz\u00e4hlungen eingefangen und lebhaft geschildert.\r\n\r\nDabei beleuchten sie Hausse und Baisse in ihren psychologischen und menschlichen Hintergr\u00fcnden und r\u00fccken die heftigen Ausschl\u00e4ge jenseits der blo\u00dfen Zahlen in den Blickpunkt."
+            },
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2023-06-30T18:30:28.771320"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2023-06-30T18:36:33.174080"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Shards",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "key": "/works/OL27915771W",
+            "subjects": [
+                "nyt:hardcover-fiction=2023-02-05",
+                "New York Times bestseller"
+            ],
+            "covers": [
+                13172921
+            ],
+            "latest_revision": 4,
+            "revision": 4,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-05-27T05:16:36.174243"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:36:06.744733"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Unter Null",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "covers": [
+                12924165
+            ],
+            "key": "/works/OL28950988W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-09-30T05:52:16.248848"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-09-30T05:52:16.248848"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Ay Parki",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "covers": [
+                12305997
+            ],
+            "key": "/works/OL26362810W",
+            "latest_revision": 2,
+            "revision": 2,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2021-11-03T20:33:32.593269"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-03-19T22:13:46.117364"
+            }
+        },
+        {
+            "type": {
+                "key": "/type/work"
+            },
+            "title": "Minder dan niks",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "In een welgesteld milieu in Los Angeles gaat een groep jongeren te gronde aan verveling."
+            },
+            "covers": [
+                12654896
+            ],
+            "key": "/works/OL27677568W",
+            "latest_revision": 1,
+            "revision": 1,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2022-03-04T12:21:34.690292"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-03-04T12:21:34.690292"
+            }
+        },
+        {
+            "location": "/works/OL15518010W",
+            "key": "/works/OL14918362W",
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "New York Times reviewed",
+                "Middle-aged men",
+                "Male friendship",
+                "Generation X",
+                "City and town life",
+                "Fiction",
+                "Friendship, fiction",
+                "Los angeles (calif.), fiction",
+                "Fiction, general",
+                "Motion picture industry, fiction",
+                "Friendship",
+                "Motion picture industry",
+                "nyt:hardcover-fiction=2010-07-04",
+                "New York Times bestseller"
+            ],
+            "links": [
+                {
+                    "title": "New York Times review",
+                    "url": "http://www.nytimes.com/2010/06/24/books/24book.html",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "title": "New York Times review",
+                    "url": "http://www.nytimes.com/2010/06/27/books/review/Wagner-t.html",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                },
+                {
+                    "title": "Imperial Bedrooms: A Haunting into Vanity and Moral Decay",
+                    "url": "https://love-books-review.com/blog/imperial-bedrooms/",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "title": "Imperial Bedrooms",
+            "description": "Clay, a successful screenwriter, has returned from New York to Los Angeles to help cast his new movie, and he's soon drifting through a long-familiar circle that will leave him no choice but to plumb the darkest recesses of his character and come to terms with his proclivity for betrayal.",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "covers": [
+                7970831,
+                10088046,
+                10168130,
+                9098710,
+                11019450
+            ],
+            "subject_places": [
+                "Los Angeles (Calif.)",
+                "California",
+                "Los Angeles"
+            ],
+            "latest_revision": 8,
+            "revision": 8,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2010-03-12T13:28:49.778494"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-05-16T16:54:47.958206"
+            }
+        },
+        {
+            "title": "The Informers",
+            "covers": [
+                978815,
+                418156,
+                196249,
+                6299668,
+                7957253,
+                10109605,
+                1011066,
+                -1
+            ],
+            "first_publish_date": "February 18, 2000",
+            "key": "/works/OL1812924W",
+            "authors": [
+                {
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    },
+                    "type": {
+                        "key": "/type/author_role"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subject_places": [
+                "Los Angeles (Calif.)",
+                "California",
+                "Los Angeles"
+            ],
+            "lc_classifications": [
+                "PS3555.L5937 I54 1994"
+            ],
+            "subjects": [
+                "Fiction",
+                "Drama",
+                "Merchants",
+                "Voyeurism",
+                "Young adults",
+                "Ex-convicts",
+                "Volcanoes",
+                "Television journalists",
+                "Rock musicians",
+                "Fiction, general",
+                "Los angeles (calif.), fiction",
+                "Roman am\u00e9ricain",
+                "California, fiction"
+            ],
+            "description": "Los Angeles, 1980s. Centers on an array of characters who represent both the top of the heap - a Hollywood dream merchant, a dissolute rock star, an aging newscaster - and the very bottom (a voyeuristic doorman, an amoral ex-con). Connecting the intertwining strands are a group of beautiful, blonde young men and women who sleep all day and party all night, doing drugs and one another with total abandon. They don't realize that they are dancing on the edge of a volcano.",
+            "latest_revision": 8,
+            "revision": 8,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-09T22:24:59.486929"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-10-18T12:33:18.677788"
+            }
+        },
+        {
+            "title": "Paradise Is Now",
+            "key": "/works/OL21187947W",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                },
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL8113786A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Palms in art",
+                "Exhibitions",
+                "Modern Art",
+                "Themes, motives"
+            ],
+            "covers": [
+                13828871
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Seit \u00fcber zweitausend Jahren erfreut sich die Palme im Morgen- und Abendland einer au\u00dfergew\u00f6hnlichen Beliebtheit. \u00dcber Kontinente, Religionen und Kulturen hinweg erz\u00e4hlt sie Geschichten von Wohlstand, Frieden und Seelenheil. Kein anderes Motiv transportiert diese Gl\u00fccksversprechen \u00fcberzeugender als die Palme. Allgegenw\u00e4rtig in der Werbung und den sozialen Medien beschw\u00f6rt sie in der s\u00e4kularen Welt Vorstellungen von Luxus, Jetset und ewigen Sonnenschein herauf und repr\u00e4sentiert ein modernes Paradies. Auch die bildende Kunst kann ihrem visuellen Reiz und ihrer metaphorischen Kraft nicht widerstehen. Vor diesem reichen kulturellen Hintergrund wird in der begleitenden Publikation zur Ausstellung 'Paradise is Now' die vielseitige Darstellung von Palmen in der zeitgen\u00f6ssischen Kunst aufgezeigt: Was steht hinter der Popularit\u00e4t dieses Emblems und welche Bedeutungsebenen und Widerspr\u00fcche offenbaren sich im Zuge der k\u00fcnstlerischen Auseinandersetzung? Neben Texten von Bret Easton Ellis, Leif Randt und Norman Rosenthal versammelt die Publikation u.a. Werke von John Baldessari, Marcel Broodthaers, Rodney Graham, Secundino Hern\u00e1ndez, David Hockney, Alicja Kwade, Sigmar Polke, Ed Ruscha und Rirkrit Tiravanija. Exhibition: Robert Grunenberg & Salon Dahlmann, Berlin, Germany (26.04.-30.06.2018)."
+            },
+            "latest_revision": 5,
+            "revision": 5,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2020-08-13T06:43:39.597231"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2025-07-19T01:01:24.285887"
+            }
+        },
+        {
+            "subjects": [
+                "Essays (single author)",
+                "New York Times reviewed",
+                "American literature",
+                "Popular culture",
+                "American essays"
+            ],
+            "key": "/works/OL20161728W",
+            "title": "White",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "covers": [
+                8807501,
+                10090620,
+                10163180,
+                10296664
+            ],
+            "links": [
+                {
+                    "url": "https://www.nytimes.com/2019/04/17/books/review/bret-easton-ellis-white.html",
+                    "title": "New York Times review",
+                    "type": {
+                        "key": "/type/link"
+                    }
+                }
+            ],
+            "latest_revision": 7,
+            "revision": 7,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2019-10-04T20:03:17.758600"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2022-12-18T11:36:39.675301"
+            }
+        },
+        {
+            "first_publish_date": "February 28, 2006",
+            "key": "/works/OL1812920W",
+            "title": "Lunar Park",
+            "authors": [
+                {
+                    "type": {
+                        "key": "/type/author_role"
+                    },
+                    "author": {
+                        "key": "/authors/OL217475A"
+                    }
+                }
+            ],
+            "type": {
+                "key": "/type/work"
+            },
+            "subjects": [
+                "Novelas estadounidenses",
+                "Fiction",
+                "College teachers",
+                "Suburban life",
+                "Hallucinations and illusions",
+                "Married people",
+                "Novelists",
+                "Literature",
+                "Psychological fiction",
+                "Domestic fiction",
+                "Halloween",
+                "Fathers and sons",
+                "Fiction, psychological",
+                "Authors, fiction",
+                "Married people, fiction",
+                "College teachers, fiction"
+            ],
+            "description": {
+                "type": "/type/text",
+                "value": "Bret Ellis, the narrator of Lunar Park, is a writer whose first novel Less Than Zero catapulted him to international stardom while he was still in college. In the years that followed he found himself adrift in a world of wealth, drugs, and fame, as well as dealing with the unexpected death of his abusive father.  After a decade of decadence a chance for salvation arrives; the chance to reconnect with an actress he was once involved with, and their son. But almost immediately his new life is threatened by a freak sequence of events and a bizarre series of murders that all seem to connect to Ellis's past. His attempts to save his new world from his own demons makes Lunar Park Ellis's most suspenseful novel.  In this chilling tale reality, memoir, and fantasy combine to create not only a fascinating version of this most controversial writer but also a deeply moving novel about love and loss, parents and children, and ultimately forgiveness.From the Trade Paperback edition."
+            },
+            "covers": [
+                226357,
+                8016331,
+                7926274,
+                10124268,
+                10234729,
+                10439695,
+                -1,
+                13496961
+            ],
+            "lc_classifications": [
+                "PS3555.L5937 L86 2005"
+            ],
+            "dewey_number": [
+                "813/.54"
+            ],
+            "latest_revision": 10,
+            "revision": 10,
+            "created": {
+                "type": "/type/datetime",
+                "value": "2009-12-09T22:24:59.486929"
+            },
+            "last_modified": {
+                "type": "/type/datetime",
+                "value": "2024-01-05T20:33:28.013768"
+            }
+        }
+    ]
+}
